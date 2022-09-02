@@ -1,0 +1,4 @@
+sui.log.*
+*.tsbuildinfo
+build/
+.vscode
